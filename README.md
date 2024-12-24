@@ -1,0 +1,2 @@
+# HOTEL-KAPSUL
+web
